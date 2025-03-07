@@ -1,0 +1,3 @@
+* text eol=crlf
+*.set binary
+*.ist binary
